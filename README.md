@@ -89,4 +89,6 @@ Settings:
 Framework Preset: Vite
 Build Command: npm run build
 Output Directory: dist
+
+
 Deploy: [link]([url](https://research-media-project.netlify.app/))
