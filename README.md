@@ -133,3 +133,15 @@ This project is optimized for deployment on platforms like **Vercel** or **Netli
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Below is the screenshots
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b6ec478d-7b87-400a-86f7-a9b53026e6bf" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9d429196-e681-4ca8-99a1-45679d3d4ac7" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/76922822-af33-4cee-978a-487d333d6b58" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/94eca7db-d044-4100-835a-f8fb9906bf9b" />
+
+
